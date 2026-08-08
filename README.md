@@ -80,7 +80,7 @@ I like creating projects that are not only functional, but also **clean, optimiz
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,gradle,maven&perline=6" />
+<img src="https://media.tenor.com/glcPxQrM51EAAAAj/minecraft.gif" />
 
 </p>
 
