@@ -36,7 +36,7 @@ currently_building:
 mindset: "Build it. Improve it. Ship it."
 ```
 
-I'm **Youssef Mohamed**, a developer who enjoys turning ideas into real projects.
+I'm **Usif Mohamed**, a developer who enjoys turning ideas into real projects.
 
 My main interests are **Web Development**, **Software Tools**, and especially **Minecraft Development**, where I build custom plugins, server systems, tools, and integrations.
 
