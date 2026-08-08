@@ -1,126 +1,248 @@
-# Hello, folks! 👋
+<!-- ===================== HEADER ===================== -->
 
-My name is **Usif Mohamed**, and I'm a **Software Developer** focused on building websites, software tools, and custom solutions.
+<div align="center">
 
-I'm also passionate about **Minecraft development**, especially creating **plugins, tools, and custom systems for Minecraft servers and mods**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Youssef%20Mohamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-I enjoy turning ideas into useful projects, experimenting with new technologies, and building tools that make development and gaming communities better.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Web+Developer;Minecraft+Plugin+Developer;Tool+%26+Automation+Developer;Building+Ideas+Into+Code+%E2%9A%A1" />
 
-You can find me on **GitHub**, or connect with me through my social platforms.
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+
+</div>
 
 ---
 
-## 🔧 Technologies & Tools
+# 👨‍💻 About Me
 
-### 💻 Programming Languages
+```yaml
+name: Youssef Mohamed
+role: Software Developer
+specialization:
+  - Web Development
+  - Software Tools
+  - Minecraft Plugins
+  - Minecraft Development
+  - Automation
+  - Discord Integrations
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+currently_building:
+  - Minecraft Plugins
+  - Developer Tools
+  - Web Applications
+  - Automation Systems
 
-### 🌐 Web Development
+mindset: "Build it. Improve it. Ship it."
+```
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+I'm **Youssef Mohamed**, a developer who enjoys turning ideas into real projects.
+
+My main interests are **Web Development**, **Software Tools**, and especially **Minecraft Development**, where I build custom plugins, server systems, tools, and integrations.
+
+I like creating projects that are not only functional, but also **clean, optimized, scalable, and easy to use.**
+
+---
+
+# ⚡ What I Do
+
+<div align="center">
+
+| 🌐 Web Development | 🎮 Minecraft Development |
+| :----------------: | :----------------------: |
+|      Websites      |          Plugins         |
+|  Web Applications  |      Server Systems      |
+|   Backend Systems  |    Gameplay Mechanics    |
+|        APIs        |  Authentication Systems  |
+
+|  🛠️ Software Tools |    🤖 Automation   |
+| :-----------------: | :----------------: |
+|   Developer Tools   |    Discord Bots    |
+|      Utilities      |  Server Automation |
+|   Management Tools  |  API Integrations  |
+| Custom Applications | Management Systems |
+
+</div>
+
+---
+
+# 🧠 Tech Stack
+
+### 💻 Programming
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,nodejs&perline=6" />
+
+</p>
 
 ### 🎮 Minecraft Development
 
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge\&logo=minecraft\&logoColor=white)
-![Paper](https://img.shields.io/badge/Paper-Software-ffffff?style=for-the-badge)
-![Fabric](https://img.shields.io/badge/Fabric-Modding-DBD0B4?style=for-the-badge)
+<p align="center">
 
-* 🧩 Minecraft Plugins
-* ⚙️ Minecraft Server Systems
-* 🛠️ Custom Minecraft Tools
-* 🔌 Plugin Development
-* 🎮 Mod-related Development
-* 🔐 Authentication & Server Security Systems
-* 🤖 Discord & Minecraft Integrations
+<img src="https://skillicons.dev/icons?i=java,gradle,maven&perline=6" />
 
-### 🛠️ Tools & Platforms
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Minecraft-Development-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/Paper-Plugin%20Development-FFFFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Fabric-Mod%20Development-DBD0B4?style=for-the-badge" />
 
-## 🚀 What I Build
+</p>
 
-I work on different types of projects, including:
+### 🧰 Tools
 
-* 🌐 **Websites & Web Applications**
-* 🛠️ **Custom Software Tools**
-* 🎮 **Minecraft Plugins & Systems**
-* 🧩 **Minecraft Mod-related Tools**
-* 🤖 **Discord Bots & Integrations**
-* 🔐 **Authentication Systems**
-* ⚙️ **Automation & Management Tools**
-* 📦 **Open-source Projects**
+<p align="center">
 
-My goal is always to build projects that are **useful, clean, optimized, and easy to maintain**.
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,windows&perline=5" />
+
+</p>
 
 ---
 
-## 🎮 Minecraft Development
+# 🎮 Minecraft Development
 
-Minecraft development is one of my main areas of interest.
+<div align="center">
 
-I create custom plugins and systems for Minecraft servers, including gameplay mechanics, server management features, authentication systems, and tools designed specifically for Minecraft communities.
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450">
 
-I'm especially interested in creating systems that improve the **player experience** while making server management easier for administrators.
+</div>
 
----
+Minecraft development is one of my biggest areas of interest.
 
-## 📌 Featured Projects
+I build custom systems designed for Minecraft servers and communities, focusing on creating unique gameplay experiences and powerful administration tools.
 
-> More projects coming soon...
-
-### 🔌 Minecraft Plugins
-
-Custom plugins designed to add new gameplay mechanics and server features.
-
-### 🛠️ Developer Tools
-
-Useful tools and utilities designed to simplify repetitive tasks and improve workflows.
-
-### 🤖 Discord Integrations
-
-Bots and systems that connect Discord communities with Minecraft servers and other services.
-
----
-
-## 📊 GitHub Stats
-
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in working on interesting projects, learning new technologies, and collaborating with other developers.
-
-* 💻 GitHub: **[YOUR GITHUB]**
-* 💬 Discord: **[YOUR DISCORD]**
-* 🌐 Website: **[YOUR WEBSITE]**
-* 📧 Email: **[YOUR EMAIL]**
-
----
-
-## 💡 About Me
+### 🔌 Projects I Work On
 
 ```text
-Name       : Youssef Mohamed
-Role       : Software Developer
-Focus      : Web Development & Minecraft Development
-Interests  : Programming • Minecraft • Automation • Open Source
+├── Minecraft Plugins
+├── Custom Server Systems
+├── Gameplay Mechanics
+├── Authentication Systems
+├── Server Management Tools
+├── Discord ↔ Minecraft Integrations
+├── Automation Systems
+└── Custom Developer Tools
 ```
 
-⭐ **Feel free to explore my repositories and check out my projects!**
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> 🚧 More projects are currently being developed.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 💭 Developer Mindset
+
+<div align="center">
+
+> **"Great software starts with a simple idea."**
+
+<br>
+
+```text
+Think → Build → Test → Improve → Repeat
+```
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_WEBSITE">
+<img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="YOUR_DISCORD">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Building. Learning. Creating.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
