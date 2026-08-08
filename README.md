@@ -133,10 +133,6 @@ I build custom systems designed for Minecraft servers and communities, focusing 
 <img src="https://github.com/Pranaavvvv" width="100">
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
-</a>
-
 </div>
 
 > 🚧 More projects are currently being developed.
