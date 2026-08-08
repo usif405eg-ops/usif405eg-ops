@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Web+Developer;Minecraft+Plugin+Developer;Tool+%26+Automation+Developer;Building+Ideas+Into+Code+%E2%9A%A1" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
-
 </div>
 
 ---
