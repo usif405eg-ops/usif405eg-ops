@@ -106,7 +106,7 @@ I like creating projects that are not only functional, but also **clean, optimiz
 
 <div align="center">
 
-<img src="https://media.tenor.com/glcPxQrM51EAAAAj/minecraft.gif" width="450">
+<img src="https://media.tenor.com/glcPxQrM51EAAAAj/minecraft.gif" width="100">
 
 </div>
 
