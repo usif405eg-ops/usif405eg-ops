@@ -1,82 +1,126 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+# Hello, folks! 👋
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+My name is **Usif Mohamed**, and I'm a **Software Developer** focused on building websites, software tools, and custom solutions.
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+I'm also passionate about **Minecraft development**, especially creating **plugins, tools, and custom systems for Minecraft servers and mods**.
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+I enjoy turning ideas into useful projects, experimenting with new technologies, and building tools that make development and gaming communities better.
+
+You can find me on **GitHub**, or connect with me through my social platforms.
+
+---
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## &#x270d; Blog & Writing
+### 💻 Programming Languages
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-A sample of my recent articles:
+### 🌐 Web Development
 
-<!-- BLOG-POST-LIST:START -->
-- [10 Examples Why cURL is an Awesome CLI Tool](https://martinheinz.dev/blog/113)
-- [A Guide to Python&#39;s Weak References Using weakref Module](https://martinheinz.dev/blog/112)
-- [Recent Docker BuildKit Features You&#39;re Missing Out On](https://martinheinz.dev/blog/111)
-- [Shell History Is Your Best Productivity Tool](https://martinheinz.dev/blog/110)
-<!-- BLOG-POST-LIST:END -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 
-## &#x1f4c8; GitHub Stats
+### 🎮 Minecraft Development
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge\&logo=minecraft\&logoColor=white)
+![Paper](https://img.shields.io/badge/Paper-Software-ffffff?style=for-the-badge)
+![Fabric](https://img.shields.io/badge/Fabric-Modding-DBD0B4?style=for-the-badge)
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+* 🧩 Minecraft Plugins
+* ⚙️ Minecraft Server Systems
+* 🛠️ Custom Minecraft Tools
+* 🔌 Plugin Development
+* 🎮 Mod-related Development
+* 🔐 Authentication & Server Security Systems
+* 🤖 Discord & Minecraft Integrations
 
+### 🛠️ Tools & Platforms
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
 
-<!-- links to social media icons -->
+---
 
-<!-- icons with padding -->
+## 🚀 What I Build
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+I work on different types of projects, including:
 
-<!-- icons without padding -->
+* 🌐 **Websites & Web Applications**
+* 🛠️ **Custom Software Tools**
+* 🎮 **Minecraft Plugins & Systems**
+* 🧩 **Minecraft Mod-related Tools**
+* 🤖 **Discord Bots & Integrations**
+* 🔐 **Authentication Systems**
+* ⚙️ **Automation & Management Tools**
+* 📦 **Open-source Projects**
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+My goal is always to build projects that are **useful, clean, optimized, and easy to maintain**.
 
+---
 
-<!-- links to your social media accounts -->
+## 🎮 Minecraft Development
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+Minecraft development is one of my main areas of interest.
 
+I create custom plugins and systems for Minecraft servers, including gameplay mechanics, server management features, authentication systems, and tools designed specifically for Minecraft communities.
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+I'm especially interested in creating systems that improve the **player experience** while making server management easier for administrators.
+
+---
+
+## 📌 Featured Projects
+
+> More projects coming soon...
+
+### 🔌 Minecraft Plugins
+
+Custom plugins designed to add new gameplay mechanics and server features.
+
+### 🛠️ Developer Tools
+
+Useful tools and utilities designed to simplify repetitive tasks and improve workflows.
+
+### 🤖 Discord Integrations
+
+Bots and systems that connect Discord communities with Minecraft servers and other services.
+
+---
+
+## 📊 GitHub Stats
+
+![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in working on interesting projects, learning new technologies, and collaborating with other developers.
+
+* 💻 GitHub: **[YOUR GITHUB]**
+* 💬 Discord: **[YOUR DISCORD]**
+* 🌐 Website: **[YOUR WEBSITE]**
+* 📧 Email: **[YOUR EMAIL]**
+
+---
+
+## 💡 About Me
+
+```text
+Name       : Youssef Mohamed
+Role       : Software Developer
+Focus      : Web Development & Minecraft Development
+Interests  : Programming • Minecraft • Automation • Open Source
+```
+
+⭐ **Feel free to explore my repositories and check out my projects!**
