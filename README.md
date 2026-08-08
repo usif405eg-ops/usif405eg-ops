@@ -130,7 +130,7 @@ I build custom systems designed for Minecraft servers and communities, focusing 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://media.tenor.com/glcPxQrM51EAAAAj/minecraft.gif" width="100">
+<img src="https://github.com/Pranaavvvv" width="100">
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
