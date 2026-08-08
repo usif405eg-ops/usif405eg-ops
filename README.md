@@ -134,7 +134,7 @@ I build custom systems designed for Minecraft servers and communities, focusing 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT&theme=tokyonight&hide_border=true" />
+<img src="https://camo.githubusercontent.com/5417b2eeea698072b823820f973c430610314505b97d2acf286a91797e460d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" />
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
