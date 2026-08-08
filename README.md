@@ -44,20 +44,167 @@ I like creating projects that are not only functional, but also **clean, optimiz
 
 <div align="center">
 
-| 🌐 Web Development | 🎮 Minecraft Development |
-| :----------------: | :----------------------: |
-|      Websites      |          Plugins         |
-|  Web Applications  |      Server Systems      |
-|   Backend Systems  |    Gameplay Mechanics    |
-|        APIs        |  Authentication Systems  |
+<h2 align="center">⚡ What I Do</h2>
 
-|  🛠️ Software Tools |    🤖 Automation   |
-| :-----------------: | :----------------: |
-|   Developer Tools   |    Discord Bots    |
-|      Utilities      |  Server Automation |
-|   Management Tools  |  API Integrations  |
-| Custom Applications | Management Systems |
+<p align="center">
+  <i>Building modern web systems, Minecraft plugins, powerful tools & automation solutions.</i>
+</p>
 
+<br>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Web Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Websites-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <img src="https://img.shields.io/badge/Web_Apps-7C3AED?style=for-the-badge&logo=react&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-FF6B35?style=for-the-badge&logo=serverless&logoColor=white">
+  <img src="https://img.shields.io/badge/APIs-22C55E?style=for-the-badge&logo=fastapi&logoColor=white">
+</p>
+
+<details>
+<summary>🔎 View Web Development</summary>
+
+<br>
+
+- 🌐 **Websites**
+- ⚡ **Web Applications**
+- 🧠 **Backend Systems**
+- 🔌 **REST APIs**
+- 🔐 **Authentication Systems**
+- 🗄️ **Database Systems**
+- 🚀 **Performance Optimization**
+
+</details>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎮 Minecraft Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Plugins-00AAFF?style=for-the-badge&logo=minecraft&logoColor=white">
+  <img src="https://img.shields.io/badge/Server_Systems-5865F2?style=for-the-badge&logo=serverfault&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gameplay-16A34A?style=for-the-badge&logo=gamemaker&logoColor=white">
+  <img src="https://img.shields.io/badge/Authentication-E11D48?style=for-the-badge&logo=auth0&logoColor=white">
+</p>
+
+<details>
+<summary>🔎 View Minecraft Development</summary>
+
+<br>
+
+- 🔌 **Minecraft Plugins**
+- 🖥️ **Server Systems**
+- 🎮 **Gameplay Mechanics**
+- 🔐 **Authentication Systems**
+- ⚙️ **Server Management**
+- 🛡️ **Security Systems**
+- 📦 **Custom Server Features**
+
+</details>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🛠️ Software Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer_Tools-F59E0B?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Utilities-10B981?style=for-the-badge&logo=tools&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Management-8B5CF6?style=for-the-badge&logo=windowsterminal&logoColor=white">
+  <img src="https://img.shields.io/badge/Custom_Apps-EC4899?style=for-the-badge&logo=appveyor&logoColor=white">
+</p>
+
+<details>
+<summary>🔎 View Software Tools</summary>
+
+<br>
+
+- 🧰 **Developer Tools**
+- 🔧 **Utilities**
+- 🖥️ **Management Tools**
+- 📦 **Custom Applications**
+- ⚡ **System Utilities**
+- 📊 **Management Systems**
+- 🔒 **Security Tools**
+
+</details>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 Automation</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/Server_Automation-22C55E?style=for-the-badge&logo=linux&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/API_Integrations-F97316?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Management-06B6D4?style=for-the-badge&logo=googleanalytics&logoColor=white">
+</p>
+
+<details>
+<summary>🔎 View Automation</summary>
+
+<br>
+
+- 🤖 **Discord Bots**
+- ⚙️ **Server Automation**
+- 🔗 **API Integrations**
+- 🖥️ **Management Systems**
+- 🔄 **Automated Workflows**
+- 📡 **External Services**
+- 🚀 **Deployment Automation**
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<h3 align="center">🚀 My Development Focus</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🌐_Web-Development-00D9FF?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/🎮_Minecraft-Development-00AAFF?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/🛠️_Software-Tools-F59E0B?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/🤖_Automation-Systems-8B5CF6?style=for-the-badge">
+
+</p>
+
+<br>
+
+<p align="center">
+  <b>💡 Turning ideas into powerful, scalable & useful software.</b>
+</p>
 </div>
 
 ---
